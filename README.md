@@ -4,7 +4,7 @@
     This is a simple command-line calculator written in Python. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
     
-<b><u>Features</u></b>
+<h1><u>Features</u></h1>
     - Addition
     - Subtraction
     - Multiplication
@@ -12,7 +12,7 @@
     - Handles basic error checking (e.g., division by zero)
 
     
-<b><u>Usage</u></b>
+<h1><u>Usage</u></h1>
 Run the program and follow the on-screen prompts to perform calculations.
 
 Enter first number: 5
