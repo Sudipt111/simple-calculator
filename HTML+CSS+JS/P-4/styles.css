@@ -1,0 +1,27 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+a:link {
+    color: blue; /* Unvisited link */
+    text-decoration: none;
+}
+
+a:visited {
+    color: purple; /* Visited link */
+}
+
+a:hover {
+    color: red; /* Mouse over link */
+}
+
+a:active {
+    color: green; /* Selected link */
+}

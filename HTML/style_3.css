@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color:rgb(6, 37, 242);
+}
+p{
+    color:rgb(5, 247, 78);
+    text-align:center;
+
+}
+body{
+    background:rgb(22, 72, 21);
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+#one{
+    color:blanchedalmond;
+    text-transform: capitalize;
+}
+#two{
+    background-color: rgb(99, 99, 99);
+    font-family: arial;
+}
+#three{
+    color: blueviolet;
+    line-height: 30px;
+    line-height: 1;
+    line-height: normal;
+}

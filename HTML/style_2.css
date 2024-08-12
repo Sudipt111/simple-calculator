@@ -1,0 +1,20 @@
+h1{
+    color:pink;
+}
+form {
+    color:brown;
+}
+input{
+    color:cornflowerblue;
+    background-color:#ffff02;
+    
+}
+button{
+    color:chartreuse;
+    background-color: blue;
+    
+}
+body{
+    background-color:rgb(100,150,250);
+}
+

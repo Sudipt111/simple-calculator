@@ -1,0 +1,28 @@
+*{
+    background-color: rgb(231, 194, 47);
+}
+
+h1 {
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    color: rgb(0, 85, 255);
+    background: #000;
+    border-width: 10px;
+    border-style: dashed;
+    border-color: brown;
+}
+p{
+    font-size: large;
+    color: darkgreen;
+}
+button{
+    color: rgb(236, 10, 10);
+    background-color: rgb(60, 147, 190);
+}
+div{
+    height: auto;
+    width: 150px;
+    color: #36ee08;
+    background-color: #000000;
+}

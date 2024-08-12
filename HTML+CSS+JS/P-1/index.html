@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pet Information Form</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Pet Information Form</h1>
+        <form id="petForm" action="summary.html" method="get">
+            <div class="form-group">
+                <label for="petName">Pet Name</label>
+                <input type="text" id="petName" name="petName" required>
+            </div>
+            <div class="form-group">
+                <label for="petType">Pet Type</label>
+                <select id="petType" name="petType" required>
+                    <option value="Dog">Dog</option>
+                    <option value="Cat">Cat</option>
+                    <option value="Bird">Bird</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="pedigreed">Pedigreed</label>
+                <input type="checkbox" id="pedigreed" name="pedigreed" value="true" checked>
+            </div>
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+</body>
+</html>

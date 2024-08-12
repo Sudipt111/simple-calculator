@@ -1,0 +1,10 @@
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}
+h1{
+    text-align:center;
+    text-decoration: dashed;
+}
