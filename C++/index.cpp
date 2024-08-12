@@ -1,6 +1,0 @@
-#include <iostream>
-using namespace std;
-int main(){
-    cout<<"hello C++ world";
-    return 0;
-}
