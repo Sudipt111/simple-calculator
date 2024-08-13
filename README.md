@@ -1,14 +1,15 @@
 <h1>Title: Simple Python Calculator</h1>
 
 <h1><u>Description</u></h1>
-    This is a simple command-line calculator written in Python. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
+    This is a simple command-line calculator written in Python. It supports basic arithmetic operations such as addition, subtraction, multiplication,division and percentage calculation .
 
     
 <h1><u>Features</u></h1>
-    - Addition
-    - Subtraction
-    - Multiplication
-    - Division
+    <li>Addition</li>
+    <li>Subtraction</li>
+    <li>Multiplication</li>
+    <li>Division</li>
+    <br>
     - Handles basic error checking (e.g., division by zero)
 
     
